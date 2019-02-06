@@ -1,7 +1,7 @@
 # JustJava
 This is a simple app that can increase and decrease the number of coffee cups to order based on a literal fixed price.
 
-Created by @DougMacGregor || http://doug-macgregor.webflow.io/ <br>
+Created by @DougMacGregor || http://doug-macgregor.webflow.io/projects/mobile-apps <br>
 Seeking a broader field and desire to do work in mobile application development.
 <hr>
 
